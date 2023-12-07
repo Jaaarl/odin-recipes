@@ -1,5 +1,3 @@
-# odin-recipes
-
 This is a project for The Odin Project called recipes we are learning about html
 
 
